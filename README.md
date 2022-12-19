@@ -2,8 +2,10 @@
 
 
 python runtime = 3.7.*
-installation procedure
-1) for windows 
+## INSTALLATION PROCEDURE
+
+
+### 1) for windows 
 
 ```bash
 pip install virtualenv
@@ -15,7 +17,7 @@ pip install -r requirements.txt
 python app/main.py
 ```
 ---
-2) for linux 
+### 2) for linux 
 ```bash
 python3.7 -m pip install virtualenv
 python3.7 -m venv venv
